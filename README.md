@@ -1,15 +1,12 @@
-### Hi there 👋
 ## Hello World! I'm Vitor Henrique
 
-- I live in Brazil.
-- I have been working on Melhoramentos Florestal :evergreen_tree: as Support TI 💻
-
-## Connect with me
-<a href="https://www.linkedin.com/in/vhdsilva/" target="_blank">
-<img aling="center" alt="vitor-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+<a href="https://github.com/vitor-henridias/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-henridias&show_icons=true&theme=dark" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-henridias&show_icons=true&theme=dark&layout=compact" style="max-width:100%;">
 </a>
 
-## Conhecimentos da Faculdade
+##
+### Conhecimentos da Faculdade
 ### IDE:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 ### Bando de Dados:
@@ -24,5 +21,3 @@
 ### FrameWork: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-
-![Vitor'h github stats](https://github-readme-stats.vercel.app/api?username=vitor-henridias&show_icons=true&theme=radical)
