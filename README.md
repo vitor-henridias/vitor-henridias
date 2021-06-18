@@ -5,7 +5,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-henridias&show_icons=true&theme=dark&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-henridias&amp;layout=compact&amp;langs_count=16&amp;theme=dark" style="max-width:100%;">
 </a>
 
-### Conhecimentos da Faculdade
+### Conhecimentos Obtidos Durante a Faculdade
 ### IDE:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 ### Bando de Dados:
