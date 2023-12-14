@@ -1,6 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-henridias&show_icons=true&theme=dark)
+### Hi there, I'm Vitor Henrique 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+#### About 
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
+
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `NodeJS`
+- 🎨 Frontend: `ReactJS`, `HTML5`, `CSS3`, `Javascript`
+- 📦️ Version code control: `Git & GitHub`
+- 🛠 Tools: `VSCode`
+
+#### Contacts
+- 📬 Email: vhsilva.mg@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/vhdsilva/
